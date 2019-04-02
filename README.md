@@ -58,7 +58,7 @@ _헬로우 월드_
 --- | ---
 1 | 강남희
 2 | 강윤수
-:stuck_out_tongue;
+ :stuck_out_tongue:
 3 | 김나연
 
 
