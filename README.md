@@ -57,8 +57,7 @@ _헬로우 월드_
 번호 | 이름
 --- | ---
 1 | 강남희
-2 | 강윤수
- :stuck_out_tongue:
+2 | 강윤수 :stuck_out_tongue:
 3 | 김나연
 
 
